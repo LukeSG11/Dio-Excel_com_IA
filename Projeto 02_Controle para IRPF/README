@@ -1,0 +1,66 @@
+# 🌟 Astra Accounting - Simulador de Informes para IRPF
+
+Astra Accounting é uma ferramenta desenvolvida em Excel com foco em organização e simulação de dados para o Imposto de Renda da Pessoa Física (IRPF) 
+O projeto faz parte do segundo desafio do curso "Santander - Excel com Inteligência Artificial"
+O arquivo entregue busca apresentar uma interface moderna, intuitiva e navegável, facilitando a coleta e visualização das informações financeiras do contribuinte.
+
+---
+
+## 📌 Objetivo
+
+Auxiliar no planejamento e estruturação dos dados para a declaração do IRPF, com foco em três principais grupos:
+
+- 👤 Dados do titular
+- 🏦 Informes bancários
+- 💰 Recebimentos mensais
+
+---
+
+## ✨ Funcionalidades
+
+✔️ Layout com identidade visual personalizada  
+✔️ Navegação assistida por botões laterais  
+✔️ Cálculo automático das disponibilidades  
+✔️ Gráfico dinâmico com a composição bancária  
+✔️ Design voltado para clareza e organização
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Excel (formatação condicional, validações e fórmulas)  
+- Gráficos nativos do Excel  
+- Interface desenvolvida com foco em UX e UI, porem apenas com recursos internos ao excel.
+
+---
+
+## 👨‍💻 Autor
+
+Projeto criado como prática complementar aos estudos em Excel voltados à automação e organização de dados. 
+Inspirado no projeto desenvolvido durante o curso e aprimorado com adições próprias de layout e lógica.
+
+---
+
+## 🗂️ Organização
+
+Para explorar o simulador:
+
+1. Acesse o arquivo `.xlsx` no repositório
+2. Navegue pelas telas utilizando os botões laterais
+3. Preencha os campos com os dados solicitados
+4. Visualize as informações e gráficos gerados
+
+---
+
+## 🔍 Destaques do Projeto
+
+- Navegação intuitiva  
+- Layout profissional  
+- Gráfico adicional de composição financeira  
+- Abordagem prática voltada à organização tributária
+
+---
+
+## 🚀 Status
+
+Projeto finalizado e disponível para uso ou aprimoramentos futuros.
