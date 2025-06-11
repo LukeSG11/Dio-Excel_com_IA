@@ -1,0 +1,52 @@
+# Quest Invest 🧭💰
+
+**Facilitar seu investimento é nossa missão.**
+
+Este projeto foi desenvolvido como uma evolução do modelo **DIO Invest**, apresentado durante o curso "Santander - Excel com Inteligência Artificial" da DIO em parceria com o Santander.
+O objetivo é simular investimentos mensais em Fundos Imobiliários (FIIs), de forma clara, didática e visualmente organizada.
+
+---
+
+## ⚙️ Funcionalidades
+
+- Simulação de investimentos mensais com juros compostos.
+- Estimativas de patrimônio e dividendos ao longo dos anos.
+- Visualização de cenários de curto, médio e longo prazo.
+- Sugestão de alocação por tipo de FII, baseada no perfil do investidor.
+- Gráficos interativos para facilitar a análise dos dados.
+
+---
+
+## 🔧 Personalizações e Melhorias
+
+Partindo do modelo original, o "Quest Invest" traz algumas melhorias técnicas e visuais:
+
+- Separação clara entre valor investido e juros acumulados.
+- Gráfico adicional de composição do patrimônio.
+- Interface visual mais limpa e organizada.
+- Destaque para os totais e indicadores de forma centralizada.
+- Design em tons de azul, com visual mais institucional.
+
+Essas mudanças foram feitas com foco na usabilidade, mantendo o mérito da estrutura original.
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+- Microsoft Excel  
+- Fórmulas financeiras  
+- Gráficos e elementos visuais nativos do Excel
+
+---
+
+## 📁 Acesso
+
+O arquivo está disponível diretamente neste repositório.  
+Sinta-se à vontade para explorar, adaptar ou sugerir melhorias!
+
+---
+
+## Agradecimentos
+
+Agradeço à DIO e ao professor Felipe Silva Aguiar pelo excelente conteúdo base, que serviu de inspiração direta e modelo para a construção deste projeto.
+
